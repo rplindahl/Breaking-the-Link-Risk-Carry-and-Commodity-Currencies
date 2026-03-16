@@ -4,7 +4,7 @@ This repository contains the data pipeline and econometric analysis for a projec
 
 We construct custom, daily commodity export and import price indices for various countries and evaluate their impact on currencies using panel data econometrics.
 
-Link to working paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6392120
+Link to working paper: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6392120)
 
 ## 📋 Project Overview
 1. **Index Construction:** We built unique daily export and import commodity price indices for individual countries. We did this by downloading annual trade data, calculating the percentage share of specific commodities in a country's total trade portfolio, and multiplying those weights by daily global commodity prices.
